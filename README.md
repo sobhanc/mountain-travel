@@ -1,1 +1,1 @@
-# mountain_travel
+# mountain-travel
